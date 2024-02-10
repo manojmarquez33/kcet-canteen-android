@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057716652784",
+    "project_id": "viyaga-shopee",
+    "storage_bucket": "viyaga-shopee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057716652784:android:c65c7f612085fd0e8ed035",
+        "android_client_info": {
+          "package_name": "com.kcet.canteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057716652784-fclsjekfdl5de3san39961oqc7r9usv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhAVtKCHhvPOc5XUvvlc6bMepFv8xF0nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057716652784-fclsjekfdl5de3san39961oqc7r9usv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

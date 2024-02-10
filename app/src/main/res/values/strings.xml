@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KCET Canteen</string>
+    <string name="drawer_open">Open navigation</string>
+    <string name="drawer_close">Close navigation</string>
+    <string name="sharetext">Download this app for E conteen system</string>
+
+</resources>
